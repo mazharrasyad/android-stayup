@@ -13,8 +13,7 @@
 		<td><img src="/screenshot/2. Home.jpeg" width="240"></td>
 		<td><img src="/screenshot/3. About.jpeg" width="240"></td>
         </tr>
-
-	<tr align="center">
+	<tr>
 		<td>Detail</td>
 		<td>Favorite</td>
 		<td>Share</td>
